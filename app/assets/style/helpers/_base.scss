@@ -1,0 +1,34 @@
+html {
+  font-size: 10px;
+  line-height: 10px;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+// * {
+//   outline: 1px solid red;
+// }
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+}
+
+textarea {
+  outline: none;
+  border: none;
+  resize: none;
+}
